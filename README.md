@@ -1,2 +1,2 @@
 # Dice-Roller
-Dice Roller with JavaScript
+Simple Dice Roller with HTML, CSS, JavaScript 
